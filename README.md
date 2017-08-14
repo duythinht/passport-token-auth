@@ -1,4 +1,4 @@
-# passport-auth-token
+# passport-token-auth
 
 HTTP Token authentication strategy for [Passport](http://passportjs.org/).
 
